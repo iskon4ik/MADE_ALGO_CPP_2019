@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="HM2" targetName="HM2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1543ff5-de8e-49ea-8b81-c60df195ed0a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ShDFIkiD78EQL7J1dGddAn8MUJ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="HM2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HM2" TARGET_NAME="HM2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HM2" RUN_TARGET_NAME="HM2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1543ff5-de8e-49ea-8b81-c60df195ed0a" name="Default Changelist" comment="" />
+      <created>1572006828732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572006828732</updated>
+      <workItem from="1572006831016" duration="2131000" />
+      <workItem from="1572094216462" duration="67000" />
+      <workItem from="1572128832697" duration="11295000" />
+      <workItem from="1572464757997" duration="4091000" />
+      <workItem from="1572469857529" duration="1719000" />
+      <workItem from="1572530239340" duration="214000" />
+      <workItem from="1572620186833" duration="3808000" />
+      <workItem from="1572815551511" duration="6799000" />
+      <workItem from="1573398655820" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/task4_3.cpp</url>
+          <line>76</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="a[0]" language="ObjectiveC" />
+        <watch expression="a[1]" language="ObjectiveC" />
+        <watch expression="a[2]" language="ObjectiveC" />
+        <watch expression="a[3]" language="ObjectiveC" />
+        <watch expression="a[4]" language="ObjectiveC" />
+        <watch expression="a[5]" language="ObjectiveC" />
+        <watch expression="a[6]" language="ObjectiveC" />
+        <watch expression="a[7]" language="ObjectiveC" />
+        <watch expression="a[8]" language="ObjectiveC" />
+        <watch expression="a[9]" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
